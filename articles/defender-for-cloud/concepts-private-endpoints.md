@@ -7,7 +7,7 @@ ms.topic: concept-article
 ms.date: 11/16/2025
 ---
 
-# Private endpoints with Microsoft Defender
+# Private endpoints with Microsoft Defender (Preview)
 
 This article provides an overview of using private endpoints with Microsoft Security Private Links to ensure secure and private connectivity in your virtual network.
 
