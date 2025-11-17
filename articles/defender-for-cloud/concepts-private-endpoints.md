@@ -26,6 +26,9 @@ Using private endpoints with Microsoft Security Private Link enables you to:
 > [!IMPORTANT]
 > - For network-isolated workloads, Microsoft Security Private Link replaces the need for Azure Monitor Private Link Scope (AMPLS) and Azure Firewall egress rules.
 
+:::image type="content" source="media/active-user/recommended-owner.png" alt-text="Screenshot of a conceptual diagram showing Security Private Link with customer's.":::
+
+
 ## Conceptual overview
 
 A private endpoint is a special network interface for an Azure service in your virtual network. When you create a private endpoint for your Security Private Link, it provides secure connectivity between workloads on your virtual network and Microsoft Defender services. The private endpoint is assigned an IP address from the IP address range of your virtual network. The connection between the private endpoint and the Microsoft Defender service uses a secure private link.
