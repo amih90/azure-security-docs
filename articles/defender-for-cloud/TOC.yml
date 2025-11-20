@@ -476,9 +476,17 @@
         - name: Exporting alerts and recommendations with continuous export
           displayName: continuous, export, exportable, exportable data
           href: benefits-of-continuous-export.md
+    - name: Private endpoints with Defender
+      displayName: network, private endpoints
+      href: concepts-private-endpoints.md
 
 - name: How-to guides
   items:
+    - name: Networking
+      items:
+        - name: Private endpoints
+          displayName: network
+          href: networking-private-endpoints.md
     - name: Build interactive reports with Azure Monitor workbooks
       displayName: workbooks, Secure Score Over Time, Vulnerability Assessment Findings
       href: custom-dashboards-azure-workbooks.md
